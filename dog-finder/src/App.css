@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+img {
+  width: 500px;
+}
+
+nav {
+  background-color: rgb(241, 177, 177);
+  padding: 10px 0 10px 0;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+  margin: 0 5px 0 5px;
+}
+
+a:hover {
+  color:rgb(110, 28, 28);
+}
